@@ -48,6 +48,7 @@ python train.py --train-content contents --train-style styles --gpu 0,1 --worker
 ```
 
 ## Test
+- Pretrained weights: [weights](https://github.com/qpal147147/Pytorch_Adain_Style/blob/main/epoch_100.pth)
 
 ``` python
 # source is directory
