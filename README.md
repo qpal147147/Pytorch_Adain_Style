@@ -1,7 +1,7 @@
 # Pytorch Adain Style
  PyTorch Implementation of the paper "[Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)"
 
-***Notice: This repositories is simple implementation***
+***Notice: This repositories is simple implementation for self-learning***
 
 ## Environment
 
